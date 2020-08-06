@@ -6,8 +6,7 @@
 		"3": "block/glass",
 		"4": "block/light_gray_concrete",
 		"5": "block/light_blue_wool",
-		"6": "block/disney-plus-logo-1143358.jpg",
-		"7": "block/light_gray_concrete",
+		"6": "block/disney-plus-logo-1143358",
 		"particle": "block/white_concrete"
 	},
 	"elements": [
@@ -103,12 +102,12 @@
 			"to": [12, 11, -5.68629],
 			"rotation": {"angle": -45, "axis": "x", "origin": [12, 3, -0.68629]},
 			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#7"},
-				"east": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#7"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#7"},
-				"west": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#7"},
-				"up": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#7"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#7"}
+				"north": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#4"},
+				"east": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#4"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#4"},
+				"west": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#4"},
+				"up": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#4"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#4"}
 			}
 		},
 		{
@@ -560,24 +559,24 @@
 			"from": [3, 3, -7],
 			"to": [4, 4, 25],
 			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#7"},
-				"east": {"uv": [0, 0, 16, 1], "texture": "#7"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#7"},
-				"west": {"uv": [0, 0, 16, 1], "texture": "#7"},
-				"up": {"uv": [0, 0, 1, 16], "texture": "#7"},
-				"down": {"uv": [0, 0, 1, 16], "texture": "#7"}
+				"north": {"uv": [0, 0, 1, 1], "texture": "#4"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#4"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#4"},
+				"up": {"uv": [0, 0, 1, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 1, 16], "texture": "#4"}
 			}
 		},
 		{
 			"from": [12, 3, -7],
 			"to": [13, 4, 25],
 			"faces": {
-				"north": {"uv": [1, 0, 2, 1], "texture": "#7"},
-				"east": {"uv": [0, 0, 16, 1], "texture": "#7"},
-				"south": {"uv": [1, 0, 2, 1], "texture": "#7"},
-				"west": {"uv": [0, 0, 16, 1], "texture": "#7"},
-				"up": {"uv": [1, 0, 2, 16], "texture": "#7"},
-				"down": {"uv": [1, 0, 2, 16], "texture": "#7"}
+				"north": {"uv": [1, 0, 2, 1], "texture": "#4"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#4"},
+				"south": {"uv": [1, 0, 2, 1], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#4"},
+				"up": {"uv": [1, 0, 2, 16], "texture": "#4"},
+				"down": {"uv": [1, 0, 2, 16], "texture": "#4"}
 			}
 		},
 		{
@@ -656,24 +655,24 @@
 			"from": [3.07612, 2.86316, 24.95183],
 			"to": [4.07612, 3.86316, 25.95183],
 			"faces": {
-				"north": {"uv": [1, 0, 2, 1], "texture": "#7"},
-				"east": {"uv": [1, 0, 2, 1], "texture": "#7"},
-				"south": {"uv": [1, 0, 2, 1], "texture": "#7"},
-				"west": {"uv": [1, 0, 2, 1], "texture": "#7"},
-				"up": {"uv": [1, 0, 2, 1], "texture": "#7"},
-				"down": {"uv": [1, 0, 2, 1], "texture": "#7"}
+				"north": {"uv": [1, 0, 2, 1], "texture": "#4"},
+				"east": {"uv": [1, 0, 2, 1], "texture": "#4"},
+				"south": {"uv": [1, 0, 2, 1], "texture": "#4"},
+				"west": {"uv": [1, 0, 2, 1], "texture": "#4"},
+				"up": {"uv": [1, 0, 2, 1], "texture": "#4"},
+				"down": {"uv": [1, 0, 2, 1], "texture": "#4"}
 			}
 		},
 		{
 			"from": [3.92388, 2.86316, 24.95183],
 			"to": [12.92388, 3.86316, 25.95183],
 			"faces": {
-				"north": {"uv": [2, 0, 11, 1], "texture": "#7"},
-				"east": {"uv": [2, 0, 3, 1], "texture": "#7"},
-				"south": {"uv": [2, 0, 11, 1], "texture": "#7"},
-				"west": {"uv": [2, 0, 3, 1], "texture": "#7"},
-				"up": {"uv": [2, 0, 11, 1], "texture": "#7"},
-				"down": {"uv": [2, 0, 11, 1], "texture": "#7"}
+				"north": {"uv": [2, 0, 11, 1], "texture": "#4"},
+				"east": {"uv": [2, 0, 3, 1], "texture": "#4"},
+				"south": {"uv": [2, 0, 11, 1], "texture": "#4"},
+				"west": {"uv": [2, 0, 3, 1], "texture": "#4"},
+				"up": {"uv": [2, 0, 11, 1], "texture": "#4"},
+				"down": {"uv": [2, 0, 11, 1], "texture": "#4"}
 			}
 		},
 		{
