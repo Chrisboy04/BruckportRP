@@ -1,0 +1,16 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/shears"
+  },
+  "overrides": [
+	  { "predicate": { "damaged": 0, "damage": 0.004201680672}, "model": "item/deco/oven"},
+      { "predicate": { "damaged": 0, "damage": 0.008403361345}, "model": "item/deco/traffic-light"},
+      { "predicate": { "damaged": 0, "damage": 0.01260504202}, "model": "item/deco/street-light"},
+	  { "predicate": { "damaged": 0, "damage": 0.01680672269}, "model": "item/deco/road-blockaid"},
+      { "predicate": { "damaged": 0, "damage": 0.02100840336}, "model": "item/deco/counter1"},
+	  { "predicate": { "damaged": 0, "damage": 0.02521008403}, "model": "item/deco/counter2"},
+	  { "predicate": { "damaged": 0, "damage": 0.02941176471}, "model": "item/deco/oven2"},
+	  { "predicate": { "damaged": 0, "damage": 0.03361344538}, "model": "item/deco/barstool"}
+  ]
+}  
